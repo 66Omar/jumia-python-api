@@ -9,4 +9,4 @@ seller = Seller(Api key, userId)
 * seller.get_order_comments(ID)
 * get_order_items(ID)
 
-to pass a date to any of above methods, you will need date class, you can created one using seller.get_formatted_date()
+to pass a date to any of above methods, you will need date class, you can create one using seller.get_formatted_date()
