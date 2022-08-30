@@ -21,3 +21,6 @@ class Order:
     promised_shipping_time: object = None
     extra_attributes: object = None
     statuses: object = None
+    returning_user: bool = False
+    number_of_orders_inclusive: int = None
+    previous_order_numbers: list = None

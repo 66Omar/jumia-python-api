@@ -1,5 +1,4 @@
 from get_data import get_data
-from get_data import get_data
 from Errors import isSuccessful
 from Payments.Models.Statement import Statement
 
